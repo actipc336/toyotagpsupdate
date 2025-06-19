@@ -6,7 +6,7 @@ How to Update Toyota GPS Navigation? A Complete Guide
 
 .. image:: https://mercedesbenzgpsupdate.readthedocs.io/en/latest/_images/update.gif
    :alt: toyota gps update
-   :width: 200px
+   :width: 400px
    :align: center
    :target: https://navisolve.com/
 
